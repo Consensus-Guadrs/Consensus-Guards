@@ -9,8 +9,9 @@
 <br>We ensure the smooth operation of our nodes, which are carefully selected and installed to meet the individual needs of the networks, geographically ensuring maximum decentralization and reliability of the networks.
 <br>From the other side we are deeply embedded and involved in the life and growth of every ecosystem and network we validate.
 <br><br>Read more about our contributions:
-<br><br>[Community contributions](https://cguards.pro/community-contributions)
+<br>[Community contributions](https://cguards.pro/community-contributions)
 <br>[Technical contributions](https://cguards.pro/technical-contributions)
+<br><br>[Information's service for the beginner validator](https://cguards.pro/validate)<br>
 # Contact us
 <br>We are always open to interacting with anyone and would be happy to answer any questions and discuss possible ways to collaborate.
 <br>[Email](mailto:info@cguards.pro)
